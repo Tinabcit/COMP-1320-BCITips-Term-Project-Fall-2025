@@ -101,4 +101,3 @@ All work in this repository is my own, completed specifically for the COMP 1320 
 
 - All required project files are included except the `.mp4` validation recording, which is hosted on YouTube due to GitHub file size constraints.  
 - The folder `screenshot-validation-passing` contains all required screenshots documenting validation results.  
-- The project follows BCIT’s coding standards and includes clear commenting throughout the codebase.
