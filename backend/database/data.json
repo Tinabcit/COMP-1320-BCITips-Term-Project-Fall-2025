@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "070f2ee9-5925-4118-9aed-2efe93d466c6",
+      "username": "avatarUser",
+      "password": "pass",
+      "profilePicture": "https://example.com/avatar.png"
+    },
+    {
+      "id": "517c5edb-156e-4f40-848a-c1b0fd0570a8",
+      "username": "tinabcit123",
+      "password": "124",
+      "profilePicture": ""
+    },
+    {
+      "id": "b1f8e685-173a-4a3b-8651-794b130a3acf",
+      "username": "tinabcit123123",
+      "password": "tina",
+      "profilePicture": ""
+    },
+    {
+      "id": "dedae979-0215-425b-ba9a-b92ddeee10cb",
+      "username": "78tina",
+      "password": "78",
+      "profilePicture": ""
+    },
+    {
+      "id": "f3eaa653-bafe-4ef9-840b-7b9b80c2e370",
+      "username": "tina1270",
+      "password": "1270",
+      "profilePicture": ""
+    },
+    {
+      "id": "85fecab0-c6d2-4a8d-931f-bc27c9814f3b",
+      "username": "bcit123",
+      "password": "123",
+      "profilePicture": ""
+    },
+    {
+      "id": "b38afb8f-b825-40d4-bc11-64ed37cc7ed7",
+      "username": "tina127077",
+      "password": "1270",
+      "profilePicture": "https://www.google.com/imgres?q=tina%20shabestari&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FC5603AQH9IEiCz4G5rw%2Fprofile-displayphoto-shrink_200_200%2Fprofile-displayphoto-shrink_200_200%2F0%2F1643326995469%3Fe%3D2147483647%26v%3Dbeta%26t%3D_z-1jEqUF8sd0B6opTu4Y3YLT6xS9Bg4tikmgOl3804&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FTina%2FShabestari&docid=Eeqco5nKnWaI5M&tbnid=ngVVpXtfG2OqnM&vet=12ahUKEwiamfDypaCRAxW3OzQIHb7xDzQQM3oECBsQAA..i&w=200&h=200&hcb=2&itg=1&ved=2ahUKEwiamfDypaCRAxW3OzQIHb7xDzQQM3oECBsQAA"
+    },
+    {
+      "id": "31af3369-7975-4bbf-98e2-6e1572ba446f",
+      "username": "TinaS1270",
+      "password": "1270",
+      "profilePicture": "https://www.google.com/imgres?q=tina%20shabestari&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FC5603AQH9IEiCz4G5rw%2Fprofile-displayphoto-shrink_200_200%2Fprofile-displayphoto-shrink_200_200%2F0%2F1643326995469%3Fe%3D2147483647%26v%3Dbeta%26t%3D_z-1jEqUF8sd0B6opTu4Y3YLT6xS9Bg4tikmgOl3804&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpub%2Fdir%2FTina%2FShabestari&docid=Eeqco5nKnWaI5M&tbnid=ngVVpXtfG2OqnM&vet=12ahUKEwiamfDypaCRAxW3OzQIHb7xDzQQM3oECBsQAA..i&w=200&h=200&hcb=2&itg=1&ved=2ahUKEwiamfDypaCRAxW3OzQIHb7xDzQQM3oECBsQAA"
+    },
+    {
+      "id": "b03098b4-56bb-416e-a049-fdf9b1882700",
+      "username": "tina123",
+      "password": "1235",
+      "profilePicture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fscriptshadow.net%2Fscreenplay-review-just-a-girl%2F&psig=AOvVaw2HAP4vHBvf6OhkrQtvNjVC&ust=1764813551901000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi_4vqooJEDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "e2627ea2-f151-403f-8892-d8f8999862cf",
+      "username": "tinashabestari123",
+      "password": "123",
+      "profilePicture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fscriptshadow.net%2Fscreenplay-review-just-a-girl%2F&psig=AOvVaw2HAP4vHBvf6OhkrQtvNjVC&ust=1764813551901000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi_4vqooJEDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "b270be24-04ee-4707-8d9a-098d42feab6c",
+      "username": "Tina.sbcit123",
+      "password": "tina",
+      "profilePicture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fscriptshadow.net%2Fscreenplay-review-just-a-girl%2F&psig=AOvVaw2HAP4vHBvf6OhkrQtvNjVC&ust=1764813551901000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKi_4vqooJEDFQAAAAAdAAAAABAE"
+    },
+    {
+      "id": "1c702e3d-adee-4072-a4c2-622b58e05d98",
+      "username": "codeNVan123",
+      "password": "123",
+      "profilePicture": ""
+    },
+    {
+      "id": "f436f992-44ff-4425-a3e8-eecdf2f88680",
+      "username": "Tina.sbcit123s",
+      "password": "1270",
+      "profilePicture": ""
+    }
+  ],
+  "tips": [
+    {
+      "id": "087849e3-a22c-4c18-a9e2-fdb299d94621",
+      "title": "Tip with avatar",
+      "userId": "070f2ee9-5925-4118-9aed-2efe93d466c6"
+    },
+    {
+      "id": "f6cc5713-0ef7-474d-8221-14569db9840b",
+      "title": "Hello Tina created by BCIT Students",
+      "userId": "85fecab0-c6d2-4a8d-931f-bc27c9814f3b"
+    },
+    {
+      "id": "90344a55-ed1f-45a8-9d05-cc7b1334f59a",
+      "title": "Deleted message",
+      "userId": "f3eaa653-bafe-4ef9-840b-7b9b80c2e370"
+    },
+    {
+      "id": "13d5e799-0c89-4337-bfc3-152b8b43d6b3",
+      "title": "78",
+      "userId": "31af3369-7975-4bbf-98e2-6e1572ba446f"
+    },
+    {
+      "id": "47eea836-9f0c-4b74-a0e2-07d867be31cf",
+      "title": "Tip 2",
+      "userId": "1c702e3d-adee-4072-a4c2-622b58e05d98"
+    }
+  ]
+}
